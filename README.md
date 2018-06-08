@@ -8,4 +8,4 @@ This is to check reset and checkout commands
 
 Checking git diff command
 
-Created a new branch called updates
+This is bound to cause problem
