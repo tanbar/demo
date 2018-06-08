@@ -8,4 +8,4 @@ This is to check reset and checkout commands
 
 Checking git diff command
 
-This is bound to cause problem
+This is causing problem
